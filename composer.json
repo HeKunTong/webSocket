@@ -1,0 +1,19 @@
+{
+    "name": "blank/web-socket",
+    "authors": [
+        {
+            "name": "blank",
+            "email": "1161709455@qq.com"
+        }
+    ],
+    "require": {
+        "easyswoole/easyswoole": "3.x",
+        "easyswoole/socket": "^1.1",
+        "swoole/ide-helper": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
